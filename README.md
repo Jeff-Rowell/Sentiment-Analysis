@@ -9,3 +9,5 @@ as a gzip-compressed tarball archive:
  
 •If you are working with Windows, you can download a free archiver such as 7-Zip (http://www.7-zip.org) to extract the files 
  from the download archive
+ 
+ IMDb2.py will take a very long time to run, my solution to this is to use the online.py, which utilizes an online learning algorithm to make things faster, with the caveat that the accuracy will slightly decrease.
