@@ -1,4 +1,5 @@
 # SentimentAnalysis
+Requirements:
 The path name needs to be renamed to your local path that contains the CSV file containing all of the movie reviews.
 A compressed archive of the movie review dataset (84.1 MB) can be downloaded from http://ai.stanford.edu/~amaas/data/sentiment/ 
 as a gzip-compressed tarball archive:
